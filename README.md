@@ -4,3 +4,5 @@
 
 Libraries used
 - https://github.com/olikraus/U8g2_Arduino/releases/tag/2.31.2
+
+Grove Beginner Kit for Arduino
